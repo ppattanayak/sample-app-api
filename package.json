@@ -1,0 +1,42 @@
+{
+  "name": "sample-app-api",
+  "version": "1.0.0",
+  "description": "Sample API application",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "slack",
+    "bot",
+    "appsec",
+    "bot",
+    "application",
+    "security",
+    "application",
+    "security",
+    "bot"
+  ],
+  "author": "Piyush Pattanayak <ppatnayak@ebay.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "body-parser": "^1.17.2",
+    "colors": "^1.1.2",
+    "custom-error": "^0.2.1",
+    "express": "^4.15.4",
+    "node-cache": "^4.1.1"
+  },
+  "devDependencies": {
+    "assert": "^1.4.1",
+    "eslint": "^4.6.0",
+    "eslint-config-ebay": "^0.1.5",
+    "eslint-config-google": "^0.9.1",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.5.0",
+    "rewire": "^2.5.2"
+  }
+}

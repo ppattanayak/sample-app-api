@@ -1,0 +1,13 @@
+[{
+    "name": "auth",
+    "enabled": true,
+    "priority": "100",
+    "path": "./src/middleware/auth"
+},
+{
+    "name": "privledge",
+    "enabled": true,
+    "priority": "110",
+    "path": "./src/middleware/priv"
+}
+]

@@ -1,0 +1,9 @@
+[
+    {   
+        "method": "GET",
+        "name": "index",
+        "route": "/",
+        "enabled": true,
+        "path": "/src/routes/index/"
+    }
+]
